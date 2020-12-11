@@ -1,0 +1,75 @@
+{
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "group-list": [
+    "default",
+    "player",
+    "ghost"
+  ],
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "Dynamic Atlas",
+    "DragonBones",
+    "EditBox",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "NodePool",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "VideoPlayer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "preview-port": 7456,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "last-module-event-record-time": 1606743235220,
+  "start-scene": "05345be7-1a2e-4762-9d45-615510c84b71"
+}

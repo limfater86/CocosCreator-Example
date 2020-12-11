@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "green-up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fdff482b-2a97-4a63-a038-3c2354e6e19d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "db92e300-99ae-4e3e-aae7-ca5200961086"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

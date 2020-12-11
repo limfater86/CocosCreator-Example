@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "die-left",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a97de8de-74a4-426f-a476-ed11faa50c3d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

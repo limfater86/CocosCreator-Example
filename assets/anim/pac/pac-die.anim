@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pac-die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "062508de-1923-477b-865c-1c9dce965f72"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b977c7d0-92ca-4af9-a253-005c9729826d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "bdb9e8fe-2439-4116-ac9d-487a874cca3d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "13f95bde-a91d-4c46-b406-1a8961061aca"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c72ad24b-f29c-43db-9c0f-e0260cc01c14"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "da10dfb1-b032-4f92-abb1-27c700b1fe72"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a197f610-b6e1-4347-9c5b-c8dcdfd229e6"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "e129de42-3f13-4ad9-9f2b-90666c416e41"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "db156aed-094f-43ae-908e-d8620d9fb38c"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "5d103f8b-f91f-4826-aa28-fa2fafcf58ba"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "00b6edba-cbb6-4e2b-902b-4e924a71c245"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.2,
+      "func": "onPacDieAnimCompl",
+      "params": []
+    }
+  ]
+}

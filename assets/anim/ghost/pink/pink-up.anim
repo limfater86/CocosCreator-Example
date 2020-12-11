@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pink-up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d696135a-9241-45b1-b979-cfb979d72093"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f5dfc7df-7950-4ee3-8eda-8c74b95bb9e5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

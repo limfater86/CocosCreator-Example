@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pac-down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "30e9fdad-73a6-4030-867c-f7ad76fad1b7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "af7875f1-9219-411b-ab66-13187b536943"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d77ec68e-c10f-48b7-ac62-c6b80756c3e6"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "af7875f1-9219-411b-ab66-13187b536943"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "die-down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3b3d7591-6644-4780-aae3-af9b61792377"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

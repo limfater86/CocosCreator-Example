@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "green-down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0ceffba1-d641-4340-8672-f33bf3e5fec7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "44085966-26ec-4b9e-a363-74141dfff420"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
